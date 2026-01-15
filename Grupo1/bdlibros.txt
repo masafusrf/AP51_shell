@@ -1,0 +1,6 @@
+Han cantado bingo;2023;Penguin;Otros
+Los juegos del hambre;2014;Molino;Ciencia ficción
+hola;1956;anaya;Terror
+j,789;cds;Romance
+Título: p, Año: 456, Editorial: fe, Género: Otros
+Título: pl, Año: 15, Editorial: fjis, Género: Fantasía
